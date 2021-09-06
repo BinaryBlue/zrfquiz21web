@@ -1,0 +1,46 @@
+/* DATATABLES  */
+
+.table > thead > tr > th { border-bottom-width : 1px; border-bottom:1px solid #ddd }
+div.dt-buttons { float: right !important; }
+.dataTables_wrapper .dataTables_filter { padding-right: 10px !important; padding-top: 2px !important; }
+.dataTables_filter {display: none;}
+td.details-control {
+      background: url('../resources/details_open.png') no-repeat center center;
+     
+      cursor: pointer; width: 50px !important;
+      position: relative;
+  }
+  td.details-control:before {
+     content :  "\f055";
+      font-family: FontAwesome;
+     font-style: normal;
+      font-weight: normal;
+      text-decoration: inherit;
+  /*--adjust as necessary--*/
+      color: #00a65a;
+      font-size: 18px;
+
+  }
+  tr.shown td.details-control {
+      background: url('../resources/details_close.png') no-repeat center center;
+      width: 50px !important;
+  }
+  tr.shown td.details-control:before {
+     content :  "\f056";
+     font-family: FontAwesome;
+      color: #3c8dbc;
+  }
+  table.dataTable tbody tr.odd.selected, table.dataTable.display tbody tr.odd.selected {
+   background-color: #f7fafc  !important; 
+  }
+
+  table.display tbody tr.selected td, table.dataTable.display tbody tr.selected td {
+   background-color: #f7fafc  !important;  
+  }
+
+  .dataselect { width: 100%; }
+
+button.dt-button, div.dt-button, a.dt-button {
+  background: #fff; border-radius: 0 !important; border: solid 1px #eee;
+}
+

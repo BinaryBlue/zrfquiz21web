@@ -1,0 +1,64 @@
+[16-Dec-2020 10:56:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/mail.php on line 16
+[16-Dec-2020 10:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/hashing.php on line 32
+[16-Dec-2020 10:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/app.php on line 16
+[16-Dec-2020 11:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/session.php on line 21
+[16-Dec-2020 11:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/services.php on line 18
+[16-Dec-2020 11:03:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/digantac/public_html/blueerp/blueerpapi/config/pdf.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/pdf.php on line 11
+[16-Dec-2020 11:04:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/digantac/public_html/blueerp/blueerpapi/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/view.php on line 17
+[16-Dec-2020 14:25:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/queue.php on line 16
+[16-Dec-2020 16:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/cache.php on line 21
+[16-Dec-2020 19:12:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/logging.php on line 20
+[23-Dec-2020 11:13:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/database.php on line 18
+[23-Dec-2020 13:45:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/woocommerce.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/woocommerce.php on line 9
+[23-Dec-2020 15:01:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/filesystems.php on line 16
+[23-Dec-2020 16:19:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/broadcasting.php on line 18
+[08-Jan-2021 15:01:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/queue.php on line 16
+[18-Feb-2021 16:02:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/digantac/public_html/blueerp/blueerpapi/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/config/broadcasting.php on line 18

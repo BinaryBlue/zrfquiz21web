@@ -1,0 +1,8 @@
+[07-Dec-2020 02:37:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/digantac/public_html/blueerp/blueerpapi/app/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/User.php on line 11
+[09-Feb-2021 08:33:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/digantac/public_html/blueerp/blueerpapi/app/User.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/User.php on line 11

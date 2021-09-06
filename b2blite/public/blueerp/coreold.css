@@ -1,0 +1,116 @@
+
+
+fieldset {
+  padding: 20px;
+  background: #ffffff;
+  box-shadow: 0 0 13px 0 rgb(33 92 105 / 15%);
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
+legend {
+  padding:10px 50px;
+  background: #f9f9f9;
+  width: auto;
+  box-shadow: 0 0 5px #ddd;
+  font-size: 1em;
+  border-radius: 3px;   
+}
+.table-crud {
+  border: solid 1px #ddd;
+}
+.table {
+  margin-bottom: 0px;
+  background: #fff;
+   border: solid 1px #eee;
+   
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background: rgba(0,0,0,.01);
+}
+.table thead th {
+  cursor: pointer;
+  background: #f9f9fc;
+  font-size: 12px;
+  font-weight: 700;
+  border-top: none;
+
+  padding: 15px 0.75rem;
+}
+.table td {
+  font-size: 11px;
+ 
+}
+.table tr:hover td {
+  background: #f9f9fc !important;
+}
+.table tr td.sortBy {
+  background: #eee;
+}
+.table tr td.info {
+  background: #f9f9f9;
+  border-bottom: solid 1px #ddd !important;
+}
+.table-container {
+  height: calc(100vh - 135px);
+  min-height: 500px;
+  overflow: auto;
+  width: 100%;
+  background: transparent;
+  
+
+
+}
+.table td.thead {
+  background: #fff;
+  font-weight: 500;
+  cursor: pointer;
+}
+.table td.tcheckbox {
+  padding: 0 0.75rem !important ;
+  font-weight: 500;
+  cursor: pointer;
+}
+.table td, .table th {
+  border-bottom: none;
+  vertical-align : middle;
+}
+.table thead th {
+  border-bottom: none;
+  border-top: none !important;
+
+}
+.table td {
+  padding: 0.45rem 0.75rem;
+}
+.table td .btn{
+
+  color: #756af8;
+  font-weight: 500;
+}
+.table td .dropdown .btn i{
+    font-size: 22px;
+}
+.table .btn .dropdown-toggle::after {
+  content: none !important;
+}
+.th-list {
+  border-right: solid 1px #ddd;
+  border-top: solid 1px #ddd;
+  width: 33.3333%;
+  float: left;
+  overflow: auto;
+}
+.table-card {
+  border: none !important;
+}
+.table-card tr td {
+  border: none !important;
+}
+.table-card tr td.label {
+  width: 40%;
+  color: #666;
+}
+.table-card tr td.value {
+  width: 60%;
+}

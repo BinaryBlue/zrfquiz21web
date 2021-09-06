@@ -1,0 +1,4 @@
+[06-Jan-2021 02:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/digantac/public_html/blueerp/blueerpapi/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/factories/UserFactory.php on line 20

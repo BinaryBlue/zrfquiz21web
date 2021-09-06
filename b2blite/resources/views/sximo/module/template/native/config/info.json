@@ -1,0 +1,24 @@
+{
+	"name"		:"PHP/laravel Native CRUD ",
+	"type"		:"native",
+	"note"		:"Add,Edit,View in new page , Native php sorting and pagination ",
+	"advance"	:"true",
+	"lang"		:"true",
+	"setting"	:{
+					
+					"sorting"		: "true",
+					"method"		: "false"
+				},
+	"access"	: {
+						"is_global"	: "Global" ,
+						"is_view"	: "View",
+						"is_detail"	: "Detail",
+						"is_add"	: "Create",
+						"is_edit"	: "Edit",
+						"is_remove"	: "Remove",
+						"is_excel"	: "Excel",
+						"is_csv"	: "CSV" ,
+						"is_pdf"	: "PDF",
+						"is_print"	: "Print"
+				  }				
+}

@@ -1,0 +1,20 @@
+{
+"name"		:"Report Module",
+"type"		:"report",
+"note"		:"Used for table view ( MySQL View Table Schema) ",
+"advance"	:"true",
+"lang"		:"false",
+"setting"	:{
+				
+				"sorting"		: "false",
+				"method"		: "false"
+				},
+"access"	: {
+					"is_global"	: "Global" ,
+					"is_view"	: "View",
+					"is_add"	: "Create",
+					"is_edit"	: "Edit",
+					"is_remove"	: "Remove",
+					"is_excel"	: "Dowload"
+			  }						
+}

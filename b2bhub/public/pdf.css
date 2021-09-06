@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+}
+
+.borderone{
+    border: 1px solid #0c0606;
+    border-radius: 5px;
+}
+
+.marginleftbottom{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}

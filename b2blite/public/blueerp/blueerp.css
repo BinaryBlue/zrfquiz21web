@@ -1,0 +1,194 @@
+.heightzero{
+    line-height: 0 !important;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+.width-50pr{
+    width:50%!important;
+}
+.width-50p{
+    width: 50px!important;
+}
+.width-60p{
+    width: 60px!important;
+}
+.width-70p{
+    width: 70px!important;
+}
+
+.font-13em{
+    font-size: 1.3em!important;
+}
+
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+
+.v-select input[type=search], .v-select input[type=search]:focus{
+    margin: -10px 0 0 !important;
+}
+
+.fright{
+    float:right !important;
+}
+
+.barcodeitems{
+    height: 220px; overflow: scroll;
+}
+.barcodeitemsoldstock{
+    height: 450px; overflow: scroll;
+}
+
+.netpayable{
+
+    font-size: 1.1em!important;
+    color: black!important;
+    font-weight: 700!important;
+
+}
+.sellconfirm{
+    height: 100px !important;
+    width: 100% !important;
+    font-size: 1.6em !important;
+    padding:33px!important;
+}
+
+.sellconfirm:focus{
+    background-color:#e91e63 !important
+}
+
+.padleft10{
+    padding-left:10px!important;
+}
+.padtop10{
+    padding-top:10px!important;
+}
+.subtotal{
+    font-size: 1.3em!important;
+    font-weight: 800!important;
+    border: 1px solid #c5c3c3;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.total{
+    font-size: 2em!important;
+    font-weight: 800!important;
+    text-align: center;
+}
+
+.operationtypebtns{
+    width: 100%!important;
+    padding-bottom: 15px;
+}
+
+.sell_active{
+    background: rgb(0,150,136, 50%)!important;
+    border: 1px solid rgb(0,150,136);
+
+}
+
+.return_active{
+    background: rgb(233,30,99, 50%)!important;
+    border: 1px solid rgb(233,30,99);
+}
+.sell_and_return_active{
+    background:rgb(108,117,125, 50%)!important;
+    border: 1px solid rgb(108,117,125);
+}
+
+.show_active{
+    background: rgb(32,150,243, 50%)!important;
+    border: 1px solid rgb(32,150,243);
+}
+
+
+.autocomplete {
+    position: relative;
+    display: inline-block;
+  }
+  
+  input {
+    border: 1px solid transparent;
+    background-color: #f1f1f1;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  input[type=text] {
+    background-color: #f1f1f1;
+    width: 100%;
+  }
+  
+  input[type=submit] {
+    background-color: DodgerBlue;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .autocomplete-items {
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    border-bottom: none;
+    border-top: none;
+    z-index: 99;
+    /*position the autocomplete items to be the same width as the container:*/
+    top: 100%;
+    left: 0;
+    right: 0;
+  }
+  
+  .autocomplete-items div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff; 
+    border-bottom: 1px solid #d4d4d4; 
+  }
+  
+  /*when hovering an item:*/
+  .autocomplete-items div:hover {
+    background-color: #e9e9e9; 
+  }
+  
+  /*when navigating through the items using the arrow keys:*/
+  .autocomplete-active {
+    background-color: DodgerBlue !important; 
+    color: #ffffff; 
+  }
+
+  .dashboard-table-100{
+    max-height: 100px!important;
+    overflow-y: scroll!important;
+  }
+
+  .ordertablefoot{
+      font-weight: bold;
+      font-size: 0.8em!important;
+  }
+
+  .text-white{
+      color:white!important;
+  }
+
+  .text-black{
+    color:black!important;
+}
+
+  .activediv{
+    border: 1px solid rgb(217, 218, 220);
+    border-radius: 2px;
+  }
+
+  .score{
+      color:white;
+      background-color: #b52983!important;
+  }
+
+  .score-color{
+      color:#b52983!important;
+  }

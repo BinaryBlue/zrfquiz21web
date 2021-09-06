@@ -1,0 +1,4 @@
+[04-Jan-2021 10:12:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Console/Kernel.php on line 8

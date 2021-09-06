@@ -1,0 +1,13 @@
+{
+	"name"		:"Default Theme",
+	"folder"	:"default",
+	"author"	:"Mango TM",
+	"template"	:{
+					
+					"Default Page"		: "page",
+					"Homepage"			: "homepage",
+					"Full Page"			: "fullpage",
+					"Contact Form"		: "contact",
+					"Backend Template"	: "backend"
+				}
+}

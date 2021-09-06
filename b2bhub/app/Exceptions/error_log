@@ -1,0 +1,8 @@
+[16-Dec-2020 21:45:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Exceptions/Handler.php on line 8
+[26-Dec-2020 13:34:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Exceptions/Handler.php on line 8

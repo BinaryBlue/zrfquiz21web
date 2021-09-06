@@ -1,0 +1,136 @@
+[24-Dec-2020 11:52:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_08_133943_create_balance_method_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_08_133943_create_balance_method_table.php on line 7
+[08-Jan-2021 18:02:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_111824_create_sell_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_111824_create_sell_table.php on line 7
+[08-Jan-2021 18:08:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_17_130758_create_profits_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_17_130758_create_profits_table.php on line 7
+[08-Jan-2021 18:10:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_08_110653_create_sizes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_08_110653_create_sizes_table.php on line 7
+[08-Jan-2021 18:12:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_193643_create_stock_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_193643_create_stock_table.php on line 7
+[08-Jan-2021 18:54:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_111608_create_order_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_111608_create_order_table.php on line 7
+[08-Jan-2021 20:09:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_190030_create_audit_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_190030_create_audit_table.php on line 7
+[09-Jan-2021 11:19:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_07_06_085241_create_stock_transfer_status_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_07_06_085241_create_stock_transfer_status_table.php on line 7
+[14-Jan-2021 01:43:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_25_204547_create_balance_archive_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_25_204547_create_balance_archive_table.php on line 7
+[14-Jan-2021 04:13:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_07_20_083221_create_color_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_07_20_083221_create_color_table.php on line 7
+[14-Jan-2021 05:29:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_133118_create_outlets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_133118_create_outlets_table.php on line 7
+[14-Jan-2021 06:45:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[14-Jan-2021 08:04:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_08_133334_create_balance_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_08_133334_create_balance_table.php on line 7
+[14-Jan-2021 09:17:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_08_153513_create_products_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_08_153513_create_products_table.php on line 7
+[14-Jan-2021 10:34:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_08_20_084021_create_constant_values_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_08_20_084021_create_constant_values_table.php on line 7
+[14-Jan-2021 11:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_11_101317_create_balance_transections_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_11_101317_create_balance_transections_table.php on line 7
+[15-Jan-2021 02:25:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_192423_create_supplier_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_192423_create_supplier_table.php on line 7
+[15-Jan-2021 03:43:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_112905_create_due_entry_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_112905_create_due_entry_table.php on line 7
+[15-Jan-2021 04:57:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_133419_create_customers_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_133419_create_customers_table.php on line 7
+[15-Jan-2021 07:28:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[15-Jan-2021 08:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_194402_create_stock_entry_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_194402_create_stock_entry_table.php on line 7
+[15-Jan-2021 10:00:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_26_174823_add_passport_to_tb_users.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_26_174823_add_passport_to_tb_users.php on line 7
+[30-Jan-2021 18:37:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_114059_create_credit_collection_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_114059_create_credit_collection_table.php on line 7
+[30-Jan-2021 20:31:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_08_25_064332_create_old_stock_entry_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_08_25_064332_create_old_stock_entry_table.php on line 7
+[01-Feb-2021 05:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_080807_create_stock_transfer_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_080807_create_stock_transfer_table.php on line 7
+[01-Feb-2021 20:31:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_07_01_195556_create_product_status_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_07_01_195556_create_product_status_table.php on line 7
+[03-Feb-2021 12:12:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_112559_create_due_collection_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_112559_create_due_collection_table.php on line 7
+[04-Feb-2021 22:18:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_10_173622_create_product_returns_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_10_173622_create_product_returns_table.php on line 7
+[06-Feb-2021 17:48:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_08_161921_create_customer_due_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_09_08_161921_create_customer_due_table.php on line 7
+[08-Feb-2021 17:48:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_080401_create_supplier_bill_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_080401_create_supplier_bill_table.php on line 7
+[10-Feb-2021 14:23:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_08_074500_create_product_category_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_08_074500_create_product_category_table.php on line 7
+[10-Feb-2021 21:18:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_07_05_194954_create_notification_status_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_07_05_194954_create_notification_status_table.php on line 7
+[10-Feb-2021 23:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_181450_create_payment_method_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_09_181450_create_payment_method_table.php on line 7
+[13-Feb-2021 03:24:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_113735_create_card_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/database/migrations/2020_06_10_113735_create_card_payments_table.php on line 7

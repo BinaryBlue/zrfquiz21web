@@ -1,0 +1,26 @@
+{
+	"name"		:"DataTable CRUD ",
+	"type"		:"datatable",
+	"note"		:"Build Module with DataTable.net Plugins",
+	"advance"	:"true",
+	"lang"		:"true",
+	"setting"	:{
+					
+					"sorting"		: "true",
+					"method"		: "true"
+				},
+	"access"	: {
+						"is_global"	: "Global" ,
+						"is_view"	: "View",
+						"is_detail"	: "Detail",
+						"is_add"	: "Create",
+						"is_edit"	: "Edit",
+						"is_remove"	: "Remove",
+						"is_excel"	: "Ms Excel",
+						"is_CSV"	: "CSV",
+						"is_word"	: "MS Word",
+						"is_print"	: "Print",
+						"is_pdf"	: "PDF"
+						
+				  }	
+}

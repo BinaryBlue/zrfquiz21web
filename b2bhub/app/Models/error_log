@@ -1,0 +1,76 @@
+[23-Dec-2020 23:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Supplierbill.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Supplierbill.php on line 7
+[23-Dec-2020 23:51:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Size.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Size.php on line 7
+[03-Jan-2021 21:34:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Sell.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Sell.php on line 7
+[04-Jan-2021 01:21:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Color.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Color.php on line 7
+[04-Jan-2021 06:24:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Outlet.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Outlet.php on line 7
+[04-Jan-2021 07:40:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Product.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Product.php on line 7
+[04-Jan-2021 08:56:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Balance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Balance.php on line 7
+[04-Jan-2021 12:43:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Customer.php on line 7
+[04-Jan-2021 16:30:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Product_return.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Product_return.php on line 7
+[04-Jan-2021 17:50:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Productarchive.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Productarchive.php on line 7
+[04-Jan-2021 19:02:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Payment_method.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Payment_method.php on line 7
+[04-Jan-2021 20:19:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/old_stock_entry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/old_stock_entry.php on line 7
+[06-Jan-2021 01:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Balance_transection.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Balance_transection.php on line 7
+[08-Jan-2021 08:49:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/old_Item_Information.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/old_Item_Information.php on line 7
+[08-Jan-2021 18:09:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Supplier.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Supplier.php on line 7
+[08-Jan-2021 19:04:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Stockentry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Stockentry.php on line 7
+[13-Jan-2021 20:39:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Customer_due.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Customer_due.php on line 7
+[13-Jan-2021 21:54:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Stocktransfer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Stocktransfer.php on line 7
+[14-Jan-2021 00:26:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Notification.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/digantac/public_html/blueerp/blueerpapi/app/Models/Notification.php on line 7
